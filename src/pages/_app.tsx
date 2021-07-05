@@ -5,7 +5,7 @@ import '../styles/bootstrap/bootstrap.css';
 import '../styles/global.scss'; // SASS
 import '../styles/global'; // Styled Components
 
-const pageTitle = 'TOTVS STORE - Marvel';
+const pageTitle = 'Marvel';
 const description = 'Access information about Marvel\'s vast library of comics from anywhere - from what\'s to come until 70 years ago.'
 
 function MyApp({ Component, pageProps }: AppProps) {
